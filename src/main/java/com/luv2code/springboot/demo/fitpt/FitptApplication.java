@@ -9,4 +9,4 @@ public class FitptApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(FitptApplication.class, args);
 	}
-
+}
